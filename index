@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div class="downloadBtn">
+	<a href="Desktop\MyWææ-Game.zip" download>
+  <div class="phase-1">Download</div>
+  <div class="phase-2">Size: 12.6 MB</div>
+</div>
+
+</body>
+</html>
